@@ -18,6 +18,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="26px" height="26px"></a>
 <a href="https://git-scm.com/" title="Git"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="26px" height="26px"></a>
 </p>
+<br />
 
 ### Контакты:
 
