@@ -1,16 +1,23 @@
-### Hi there 👋
+### Привет всем, меня зовут Тимофей!
 
-<!--
-**timtorshin/timtorshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне:
 
-Here are some ideas to get you started:
+* Начинающий frontend-разработчик
+* Учусь на факультете веб-разработки в Яндекс.Практикуме
+* Придерживаюсь чистого и аккуратного кода
+* Хочу освоить новые фреймворки
+* Стремлюсь к работе над настоящими проектами
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мой стек:
+
+<a href="https://reactjs.org/" title="React"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="26px" height="26px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="26px" height="26px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="26px" height="26px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="26px" height="26px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="26px" height="26px"></a>
+<a href="https://git-scm.com/" title="Git"><img align="left" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="26px" height="26px"></a>
+
+### Контакты:
+
+* telegram: @timtorshin
+* email: timofei.torshin@yandex.ru
